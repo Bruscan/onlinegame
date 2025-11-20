@@ -1,0 +1,18 @@
+# Exclude original Evan files
+evan-original/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files
+*.tmp
+*~
+
+# Backup files
+*.bak
+index-clean.html
